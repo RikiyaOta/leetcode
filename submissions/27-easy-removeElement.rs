@@ -19,9 +19,8 @@ impl Solution {
                 not_matched += 1;
             }
         }
-        
+
         not_matched as i32
     }
 }
 // @lc code=end
-
